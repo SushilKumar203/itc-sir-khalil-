@@ -1,0 +1,67 @@
+Review Questions
+
+Difference between data and information?
+Data is raw, unprocessed facts, while information is processed data that is meaningful and useful.
+
+How many characters or symbols can be represented by one eight-bit byte?
+An eight-bit byte can represent 256 characters or symbols.
+
+What is meant by "word size"?
+"Word size" refers to the number of bits processed by a computer's CPU in a single operation.
+
+Difference between arithmetic operations and logical operations?
+Arithmetic operations involve mathematical calculations (e.g., addition, subtraction), while logical operations involve comparisons (e.g., AND, OR).
+
+What is a data bus?
+A data bus is a system within a computer that transfers data between components.
+
+Describe how virtual memory works.
+Virtual memory uses part of the hard drive to simulate additional RAM, allowing more applications to run concurrently.
+
+Difference between L1 and L2 cache?
+L1 cache is smaller and faster, located inside the CPU. L2 cache is larger and slower, typically located near or on the CPU.
+
+Role of a computer's system clock?
+The system clock synchronizes all the operations in a computer by sending a consistent timing signal.
+
+Why is a CPU often idle?
+The CPU may be idle when it is waiting for data from slower components, like memory or storage.
+
+Importance of having a standard text code?
+A standard text code, like ASCII, ensures that text data is consistently represented and readable across different systems.
+/
+/
+/
+/
+/
+
+/
+/
+Multiple Choice
+
+The ________ standard promises to provide enough characters to cover all the world's languages.
+Answer: b. Unicode
+
+______ may be built directly into a CPU or placed on the motherboard.
+Answer: c. Cache memory
+
+The CPU uses a ________ to store and retrieve each piece of data in memory.
+Answer: c. memory address
+
+The computer can move data and instructions between storage and memory, as needed, in a process called ________.
+Answer: d. exchanging
+
+The bus’s speed is directly tied to the speed of the computer’s ________.
+Answer: b. CPU
+
+Memory that loses its data when power is turned off is considered ________ memory.
+Answer: a. volatile
+
+The acronym ________ means billions of operations per second.
+Answer: d. GHz
+
+A CPU that is following a series of steps to complete an instruction is using ________ technology.
+Answer: b. pipelining
+
+This cache holds the most recently used data or instructions.
+Answer: a. L1
